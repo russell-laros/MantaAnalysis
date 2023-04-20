@@ -12,8 +12,8 @@ The dataset used for this project is transformed from a Google Calendar, resulti
 * Perform exploratory data analysis to understand the dataset, identify any issues, and explore the relationships between variables.
 * Impute missing data, if any.
 * Conduct time series analysis:
-** Smoothing
-** Kalman filtering
+* * Smoothing
+* * Kalman filtering
  - Seasonal decomposition
  - Check for stationarity
  - ARIMA model
