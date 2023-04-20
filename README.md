@@ -12,13 +12,13 @@ The dataset used for this project is transformed from a Google Calendar, resulti
 * Perform exploratory data analysis to understand the dataset, identify any issues, and explore the relationships between variables.
 * Impute missing data, if any.
 * Conduct time series analysis:
- * Smoothing
- * Kalman filtering
- * Seasonal decomposition
- * Check for stationarity
- * ARIMA model
- * LSTM model with PyTorch
- * Facebook's Prophet model
+  * Smoothing
+  * Kalman filtering
+  * Seasonal decomposition
+  * Check for stationarity
+  * ARIMA model
+  * LSTM model with PyTorch
+  * Facebook's Prophet model
 * Write out the results and insights derived from the analysis.
 * Share thoughts on future analysis using regression and integration with atmospheric and oceanic weather data APIs.
 
